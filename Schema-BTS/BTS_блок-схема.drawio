@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-05T16:18:48.077Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 OPR/108.0.0.0 (Edition Yx 05)" etag="CE5aK_H4H3Z4NhuQcw_J" version="24.2.2" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2024-04-05T16:29:02.720Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 OPR/108.0.0.0 (Edition Yx 05)" etag="hYs2r6GoDjrXgR57cCiB" version="24.2.2" type="github" pages="16">
   <diagram name="Общая схема" id="Yb1cTLGMtpagoN2Jhq6M">
-    <mxGraphModel dx="1729" dy="950" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1210" dy="665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -431,7 +431,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="xGc2vi5-wszcQYZxdb2k" name="Блок проверки питания">
-    <mxGraphModel dx="1729" dy="950" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1210" dy="665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -803,7 +803,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="U2AlWOppQCc03jYYobNz" name="Блок прозвонки">
-    <mxGraphModel dx="1729" dy="950" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1424" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1081,7 +1081,7 @@
           <mxGeometry x="10" y="785" width="29" height="20" as="geometry" />
         </mxCell>
         <mxCell id="W1eBQESv_70GLa4Id_R9-324" value="PE7..PE15" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="Hv8rhHZcRzQuuQwSFGya-1" vertex="1">
-          <mxGeometry x="-37" y="847" width="79" height="20" as="geometry" />
+          <mxGeometry x="-30" y="847" width="72" height="20" as="geometry" />
         </mxCell>
         <mxCell id="PPtcmm3Bj5flTRDlNzoE-1" value="Схема блока прозвонки" style="swimlane;whiteSpace=wrap;html=1;" parent="Hv8rhHZcRzQuuQwSFGya-1" vertex="1">
           <mxGeometry x="42.5" y="46" width="247.5" height="142" as="geometry">
@@ -2271,8 +2271,7 @@
         <mxCell id="fQiMmOtzoekj0nH46W23-350" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="Hv8rhHZcRzQuuQwSFGya-1" source="fQiMmOtzoekj0nH46W23-325" target="W1eBQESv_70GLa4Id_R9-324" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="44" y="880" />
-              <mxPoint x="3" y="880" />
+              <mxPoint x="6" y="885" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -2603,33 +2602,33 @@
         <mxCell id="zOt0-NTEOWCfutPEuFuE-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.956;entryY=0.101;entryDx=0;entryDy=0;entryPerimeter=0;" parent="Hv8rhHZcRzQuuQwSFGya-39" source="a-jsjzdHOSvDxn_k1KBY-23" target="a-jsjzdHOSvDxn_k1KBY-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="W1eBQESv_70GLa4Id_R9-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="Hv8rhHZcRzQuuQwSFGya-40" edge="1">
+        <mxCell id="W1eBQESv_70GLa4Id_R9-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;endArrow=none;endFill=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="Hv8rhHZcRzQuuQwSFGya-40" edge="1" target="PPtcmm3Bj5flTRDlNzoE-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="189" y="121" />
-              <mxPoint x="189" y="183" />
+              <mxPoint x="189" y="213" />
+              <mxPoint x="251" y="213" />
             </Array>
-            <mxPoint x="251.5" y="182.5" as="targetPoint" />
+            <mxPoint x="250" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="W1eBQESv_70GLa4Id_R9-263" value="GND" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="W1eBQESv_70GLa4Id_R9-23" vertex="1" connectable="0">
           <mxGeometry x="0.691" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-7" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="W1eBQESv_70GLa4Id_R9-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.386;entryY=0.597;entryDx=0;entryDy=0;endArrow=none;endFill=0;entryPerimeter=0;" parent="1" source="Hv8rhHZcRzQuuQwSFGya-40" target="PPtcmm3Bj5flTRDlNzoE-21" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="199" y="105" />
-              <mxPoint x="199" y="146" />
-              <mxPoint x="250" y="146" />
+              <mxPoint x="199" y="106" />
+              <mxPoint x="199" y="177" />
             </Array>
             <mxPoint x="251.5" y="147" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="W1eBQESv_70GLa4Id_R9-262" value="VCC" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="W1eBQESv_70GLa4Id_R9-24" vertex="1" connectable="0">
           <mxGeometry x="0.6636" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-7" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="W1eBQESv_70GLa4Id_R9-280" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;endArrow=none;endFill=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="Hv8rhHZcRzQuuQwSFGya-42" target="fQiMmOtzoekj0nH46W23-26" edge="1">
@@ -2685,9 +2684,10 @@
         <mxCell id="a-jsjzdHOSvDxn_k1KBY-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.495;entryY=0.8;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="a-jsjzdHOSvDxn_k1KBY-1" target="W1eBQESv_70GLa4Id_R9-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="746" y="91" />
               <mxPoint x="629" y="91" />
-              <mxPoint x="629" y="168" />
-              <mxPoint x="549" y="168" />
+              <mxPoint x="629" y="210" />
+              <mxPoint x="548" y="210" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -2852,7 +2852,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="UVxMAFB6BZoQt4qc2wKW" name="Блок тестирования VCC12">
-    <mxGraphModel dx="1729" dy="950" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1008" dy="554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3775,7 +3775,7 @@
           <mxGeometry x="20" y="890" width="800" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pgOl6WcPdfr4kFrlciX_-2" value="** В момент времени 2* GND платы стенда, тестируемой платы и отладочной платы объединены, тестируемая плата получает питание 12V&lt;br&gt;с платы стенда, проверяется напряжение на VCC12" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="20" y="925" width="810" height="40" as="geometry" />
+          <mxGeometry x="16" y="925" width="810" height="40" as="geometry" />
         </mxCell>
         <mxCell id="j8k_WsUqiSFjkJn5nmwi-1" value="Test" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="1" vertex="1">
           <mxGeometry x="20" y="865" width="30" height="20" as="geometry" />
@@ -3801,7 +3801,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="9xWwrgn5qfVfEwcLW1i-" name="Блок тестирования VCC5">
-    <mxGraphModel dx="1210" dy="1834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1424" dy="1951" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4451,7 +4451,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="EC28WdbnEl1ZbqO1_kGz" name="Блок тестирования VCC3">
-    <mxGraphModel dx="1424" dy="1951" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1210" dy="1834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
