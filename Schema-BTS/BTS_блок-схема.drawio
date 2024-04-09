@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T09:09:10.023Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 OPR/108.0.0.0 (Edition Yx 05)" etag="9J1hSm9aIUHq0fXLDeEN" version="24.2.2" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2024-04-09T10:26:37.798Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 OPR/108.0.0.0 (Edition Yx 05)" etag="Wa3tYTEgUwfejW6H34Q4" version="24.2.2" type="github" pages="17">
   <diagram name="Общая схема" id="Yb1cTLGMtpagoN2Jhq6M">
     <mxGraphModel dx="1210" dy="665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -104,7 +104,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="mzwCCCXThhYZItq_n-Ps" name="Связь между платами">
-    <mxGraphModel dx="1210" dy="665" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="675" dy="1014" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -431,7 +431,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="xGc2vi5-wszcQYZxdb2k" name="Блок проверки питания">
-    <mxGraphModel dx="913" dy="665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="439" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -803,7 +803,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="U2AlWOppQCc03jYYobNz" name="Блок прозвонки (лист 1)">
-    <mxGraphModel dx="550" dy="403" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="418" dy="628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2109,7 +2109,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Блок прозвонки (лист 2)" id="n3p8OXPVX2rdjfPwVJ6-">
-    <mxGraphModel dx="1297" dy="950" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="627" dy="941" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="XLQkKdV2SJj35Nu0rSSo-0" />
         <mxCell id="XLQkKdV2SJj35Nu0rSSo-1" parent="XLQkKdV2SJj35Nu0rSSo-0" />
@@ -3580,7 +3580,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_qVCIJkZ0pmjzp9hK219" name="Блок тестирования PushButton">
-    <mxGraphModel dx="913" dy="665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="418" dy="628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3663,7 +3663,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="UVxMAFB6BZoQt4qc2wKW" name="Блок тестирования VCC12">
-    <mxGraphModel dx="913" dy="665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="303" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4612,7 +4612,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="9xWwrgn5qfVfEwcLW1i-" name="Блок тестирования VCC5">
-    <mxGraphModel dx="913" dy="1834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="439" dy="1828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5262,7 +5262,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="EC28WdbnEl1ZbqO1_kGz" name="Блок тестирования VCC3">
-    <mxGraphModel dx="913" dy="1834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="439" dy="1828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5761,7 +5761,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="yjLGGpf-dZCeyCoumsnY" name="Блок тестирования RPI">
-    <mxGraphModel dx="913" dy="665" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="549" dy="824" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5974,7 +5974,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="RSupJCt_Vw9FxaJIt_M8" name="Блок тестирования ABORT_SW">
-    <mxGraphModel dx="913" dy="665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="439" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6071,7 +6071,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="no03rVl7Ib6pCF_fkY6p" name="Блок тестирования SPI RFID">
-    <mxGraphModel dx="913" dy="665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="439" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6239,7 +6239,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="UjJqvndk9CDddFk3g31c" name="Блок тестирования Alcotester">
-    <mxGraphModel dx="913" dy="665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="439" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6307,7 +6307,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="rTeeawHtzNWZl4HTnhwG" name="Блок тестирования NTC">
-    <mxGraphModel dx="913" dy="665" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="732" dy="1098" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6506,7 +6506,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="HzcL4IKCzrbpAIYdurc4" name="Блок тестирования CTP">
-    <mxGraphModel dx="913" dy="665" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="439" dy="659" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6627,7 +6627,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="zoMjRuHJqaq0Q1a05fma" name="Блок тестирования PUMP">
-    <mxGraphModel dx="913" dy="665" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="439" dy="659" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6774,7 +6774,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="06DdFKcdEEReyRxpj1wY" name="Блок тестирования датчика давления">
-    <mxGraphModel dx="913" dy="665" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="439" dy="659" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
